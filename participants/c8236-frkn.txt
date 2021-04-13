@@ -1,1 +1,8 @@
 workshop training text
+
+commit deneme 
+
+push
+
+pull
+
