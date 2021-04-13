@@ -1,5 +1,16 @@
 workshop training text
 
+<<<<<<< HEAD
 deneme
 
 iyi bir gün, yeni bir bakış
+=======
+commit deneme 
+
+push
+
+pull
+
+>>>>>>> developer/c8236-frkn
+
+13 nisan main tarafından gözden geçirildi
